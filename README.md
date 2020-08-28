@@ -1,0 +1,2 @@
+# Data-Visualisation
+In this section, we will see how to:  Visualise univariate distributions Visualise bivariate distributions We will also start using the seaborn library for data visualisation. Seaborn is a python library built on top of matplotlib. It creates much more attractive plots than matplotlib, and is often more concise than matplotlib when you want to customize your plots, add colors, grids etc.
